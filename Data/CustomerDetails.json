@@ -1,0 +1,143 @@
+[
+   {
+      "Address": [
+         1,
+         1,
+         "8"
+      ],
+      "CustomerID": "3",
+      "CustomerName": "C3",
+      "PhoneNumber": "785",
+      "Subscriptions": [
+         {
+            "from_date": "3/6/23",
+            "name": "Telegraph",
+            "to_date": "4/7/23"
+         }
+      ]
+   },
+   {
+      "Address": [
+         2,
+         1,
+         "2"
+      ],
+      "CustomerID": "000001",
+      "CustomerName": "C1",
+      "PhoneNumber": "7702266163",
+      "Subscriptions": [
+         {
+            "from_date": "4/5/21",
+            "name": "Newspaper2",
+            "to_date": "6/16/21"
+         },
+         {
+            "from_date": "4/5/21",
+            "name": "magazine2",
+            "to_date": "4/5/21"
+         },
+         {
+            "from_date": "4/2/23",
+            "name": "magazine2",
+            "to_date": "5/2/23"
+         }
+      ]
+   },
+   {
+      "Address": [
+         2,
+         3,
+         "1"
+      ],
+      "CustomerID": "10",
+      "CustomerName": "C5",
+      "PhoneNumber": "6290687050",
+      "Subscriptions": [
+         {
+            "from_date": "1/3/23",
+            "name": "magazine2",
+            "to_date": "4/3/23"
+         },
+         {
+            "from_date": "1/3/23",
+            "name": "Newspaper2",
+            "to_date": "2/4/23"
+         }
+      ]
+   },
+   {
+      "Address": [
+         2,
+         4,
+         "1"
+      ],
+      "CustomerID": "9",
+      "CustomerName": "Vaibhav",
+      "PhoneNumber": "6290657795",
+      "Subscriptions": []
+   },
+   {
+      "Address": [
+         2,
+         5,
+         "7"
+      ],
+      "CustomerID": "1",
+      "CustomerName": "C2",
+      "PhoneNumber": "7702276163",
+      "Subscriptions": [
+         {
+            "from_date": "4/5/21",
+            "name": "HindiPaper",
+            "to_date": "5/12/21"
+         },
+         {
+            "from_date": "4/5/21",
+            "name": "magazine1",
+            "to_date": "5/12/21"
+         },
+         {
+            "from_date": "4/3/23",
+            "name": "Hinsutan Times",
+            "to_date": "5/3/23"
+         }
+      ]
+   },
+   {
+      "Address": [
+         2,
+         5,
+         "7"
+      ],
+      "CustomerID": "2",
+      "CustomerName": "C4",
+      "PhoneNumber": "7702276164",
+      "Subscriptions": [
+         {
+            "from_date": "4/5/21",
+            "name": "HindiPaper",
+            "to_date": "5/12/21"
+         },
+         {
+            "from_date": "4/5/22",
+            "name": "magazine1",
+            "to_date": "5/12/23"
+         },
+         {
+            "from_date": "4/3/23",
+            "name": "magazine2",
+            "to_date": "5/3/23"
+         },
+         {
+            "from_date": "4/3/21",
+            "name": "newspaper1",
+            "to_date": "4/3/23"
+         },
+         {
+            "from_date": "3/3/23",
+            "name": "Hinsutan Times",
+            "to_date": "4/3/23"
+         }
+      ]
+   }
+]
